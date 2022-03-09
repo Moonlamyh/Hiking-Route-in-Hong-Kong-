@@ -1,0 +1,2 @@
+# Hiking-Route-in-Hong-Kong-
+The problem I define is https://www.hiking.gov.hk/trail, a government official website, sharing the hiking routes and information about hiking in Hong Kong.  In the code, I scrape the webpage in English, finding titles and useful elements. I scrape all the information about hiking routes. It includes the hiking trail names, districts, difficulties, rating, and descriptions.
